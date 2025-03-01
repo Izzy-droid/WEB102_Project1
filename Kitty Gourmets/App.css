@@ -32,6 +32,10 @@ body{
   margin: 10px;
   width: 350px;
   text-align: center;
+  
+  
+   
+  
 }
 .plant-img{
   width:350px;
@@ -41,7 +45,7 @@ body{
   color:white;
   background-color:lightskyblue;
   height: 40px;
-  width: 80px;
+  width: 90px;
   margin-bottom:10px;
   border-radius: 10px;
   
@@ -51,5 +55,12 @@ body{
 .plant-button a {
   color: white;
   text-decoration: none;
+  
 }
+.card-arrange{ 
+  display: flex; 
+  flex-wrap: wrap; 
+  gap: 1rem; 
+  justify-content: center;
+ } 
 
