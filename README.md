@@ -1,23 +1,24 @@
 # WEB102_Project1
 
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - Kitty Gourmets
 
 Submitted by: Isabella Mitchell
 
-This web app: **insert description**
+This web app: 
+Labels and lists out safe plants that can be eaten by cats and can be grown in your indoor garden.
 
-Time spent: **X** hours spent in total
+Time spent: 6 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **There is a unique theme for events or resources relevant to a specific community**
-- [ ] **At least 10 unique resources or events are displayed in a responsive card format**
+- [X] **There is a unique theme for events or resources relevant to a specific community**
+- [X] **At least 10 unique resources or events are displayed in a responsive card format**
 
 The following **optional** features are implemented:
 
-- [ ] Buttons or links to a related resources are on each card component
+- [X] Buttons or links to a related resources are on each card component
 - [ ] The site is responsive for both desktop and mobile formats
 
 The following **additional** features are implemented:
@@ -40,6 +41,8 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+Just learning React in general, but I found it isn't as hard as I thought at least for right now. I twas more tedious than anything
 
 ## License
 

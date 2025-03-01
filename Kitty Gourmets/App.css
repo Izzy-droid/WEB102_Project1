@@ -1,0 +1,55 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  color: Black;
+  background-color: white;
+}
+body{
+  background-color: blanchedalmond;
+}
+
+.title{
+  font-size: 70px;
+}
+
+.header-align{
+  display:flex;
+  justify-content: center;
+}
+.header-pic{
+  width:1000px;
+  height: 250px;
+}
+.card{
+  background-color:white;
+  border: 1px solid black;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgba(0,0,0, 0.1);
+  display:inline-block;
+  margin: 10px;
+  width: 350px;
+  text-align: center;
+}
+.plant-img{
+  width:350px;
+  height: 300px;
+}
+.plant-button{
+  color:white;
+  background-color:lightskyblue;
+  height: 40px;
+  width: 80px;
+  margin-bottom:10px;
+  border-radius: 10px;
+  
+  border:none;
+  text-decoration: none;
+}
+.plant-button a {
+  color: white;
+  text-decoration: none;
+}
+
