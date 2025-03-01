@@ -26,13 +26,14 @@ The following **additional** features are implemented:
 * [ ] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
+![Web102_p1](https://github.com/user-attachments/assets/33762e0a-391f-412e-8b53-5d41959cd7ee)
 
-Here's a walkthrough of implemented required features:
+Here's a walkthrough of implemented required features: 
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
